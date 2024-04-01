@@ -12,7 +12,7 @@
         "testes:servidor-depuracao": "ts-node ./fontes/depuracao/servidor-depuracao.ts"
     },
     "dependencies": {
-        "@designliquido/birl": "0.0.1",
+        "@designliquido/birl": "^0.0.1",
         "@designliquido/delegua": "0.33.14",
         "@designliquido/portugol-studio": "^0.0.2",
         "@designliquido/potigol": "^0.0.3",
@@ -28,7 +28,7 @@
         "@designliquido/delegua-json": "^0.0.0",
         "@designliquido/delegua-matematica": "^0.2.0",
         "@designliquido/delegua-tempo": "^0.0.1",
-        "@types/estree": "^1.0.0",
+        "@types/estree": "^1.0.5",
         "@types/jest": "^29.4.0",
         "@types/node": "^18.11.19",
         "copyfiles": "^2.4.1",
