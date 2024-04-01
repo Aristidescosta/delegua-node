@@ -12,8 +12,8 @@
         "testes:servidor-depuracao": "ts-node ./fontes/depuracao/servidor-depuracao.ts"
     },
     "dependencies": {
-        "@designliquido/birl": "0.0.0",
-        "@designliquido/delegua": "0.33.12",
+        "@designliquido/birl": "0.0.1",
+        "@designliquido/delegua": "0.33.13",
         "@designliquido/portugol-studio": "^0.0.2",
         "@designliquido/potigol": "^0.0.2",
         "@designliquido/visualg": "^0.0.4",
