@@ -344,7 +344,7 @@
   resolved "https://registry.yarnpkg.com/@designliquido/delegua-tempo/-/delegua-tempo-0.0.1.tgz#964834d127354857cda1c388f5de9327735b6747"
   integrity sha512-/O1/eXlTXPTWSZGZ862i6uHHKCW0cmP6KnOV29zK4d4hgn03QjcNDeFKVC9L9vz3OJ6pPY0d/S8ANJkgBnnoaQ==
 
-"@designliquido/delegua@0.33.13", "@designliquido/delegua@^0.33.12":
+"@designliquido/delegua@0.33.13", "@designliquido/delegua@^0.33.12", "@designliquido/delegua@^0.33.13":
   version "0.33.13"
   resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.33.13.tgz#963ae910fe3f46c89a78c6b7065937eb3bb6c8c4"
   integrity sha512-V1MTdUyUr0zFw0cgA3d97hll0Wl+UStpIk0oMwCuZYTXlGoLj4mklPgdtyx/V5W28dyYxduIwyJ8iCiJt7/jRg==
@@ -374,16 +374,6 @@
     esprima "^4.0.1"
     lodash.clonedeep "^4.5.0"
 
-"@designliquido/delegua@^0.33.9":
-  version "0.33.12"
-  resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.33.12.tgz#207f3545d17aaafac104b433d45e9c34e7036d47"
-  integrity sha512-1+vk20FOZBwvjD+ellkbsGW7TdzY3PehF2fIfh3CWaNRSJ5WwzozKXvLhCTXZUdqeme0+U+i2uUQa4PGv4ptlQ==
-  dependencies:
-    antlr4ts "^0.5.0-alpha.4"
-    browser-process-hrtime "^1.0.0"
-    esprima "^4.0.1"
-    lodash.clonedeep "^4.5.0"
-
 "@designliquido/portugol-studio@^0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@designliquido/portugol-studio/-/portugol-studio-0.0.2.tgz#123a0a962f4d28fb2acef956942f17baf24d013c"
@@ -391,12 +381,12 @@
   dependencies:
     "@designliquido/delegua" "^0.33.6"
 
-"@designliquido/potigol@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@designliquido/potigol/-/potigol-0.0.2.tgz#4d5de53ec8c102f73a1a2bef04f9757707e8fd46"
-  integrity sha512-VaM9XkJKT8rsRQQhPc8o59JdV2DeLdmtsdbzfwlDhdzSc7PFBsCbcmsjz/pzS2o7kSN9hhAUJU1VbVyUbrOj2A==
+"@designliquido/potigol@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@designliquido/potigol/-/potigol-0.0.3.tgz#b5e5b68568afb92ec282d428e1f3c3035f44235e"
+  integrity sha512-drGum3ICa6MH/cucKAXAYP00IzmlkT3R3xeUfpMh0a2Vwab1R6T3siozOnIRDEBQaroc7SU4RSwdFoZ0Ab3vnQ==
   dependencies:
-    "@designliquido/delegua" "^0.33.9"
+    "@designliquido/delegua" "^0.33.13"
 
 "@designliquido/visualg@^0.0.4":
   version "0.0.4"
