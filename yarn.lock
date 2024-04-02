@@ -344,10 +344,10 @@
   resolved "https://registry.yarnpkg.com/@designliquido/delegua-tempo/-/delegua-tempo-0.0.1.tgz#964834d127354857cda1c388f5de9327735b6747"
   integrity sha512-/O1/eXlTXPTWSZGZ862i6uHHKCW0cmP6KnOV29zK4d4hgn03QjcNDeFKVC9L9vz3OJ6pPY0d/S8ANJkgBnnoaQ==
 
-"@designliquido/delegua@0.33.14":
-  version "0.33.14"
-  resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.33.14.tgz#fe3cc411ca35c3034a3190f7eb7e1f1eb2558dba"
-  integrity sha512-D962aaGGn1Cxyd/d3xy3XLEIclHDeDXDC0RiRqPdPASO1HuFthfVVJvUaN295R2GzVWxkVlPst7OMLTZO1FAyQ==
+"@designliquido/delegua@0.33.15", "@designliquido/delegua@^0.33.15":
+  version "0.33.15"
+  resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.33.15.tgz#c7ab793e4931fbaea51ab671e47e1924078914d7"
+  integrity sha512-5Tv8qxVcnYOPA+MZ8Y7HyobxZOsWM1/bOkwcbdgrGenL4iUMucRmwx3DILbIrg5uPWVtNibWUlMxrEGYf3+jTQ==
   dependencies:
     antlr4ts "^0.5.0-alpha.4"
     browser-process-hrtime "^1.0.0"
@@ -374,22 +374,12 @@
     esprima "^4.0.1"
     lodash.clonedeep "^4.5.0"
 
-"@designliquido/delegua@^0.33.6":
-  version "0.33.6"
-  resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.33.6.tgz#8b772acce55af699557562d5ad04c71a160954d9"
-  integrity sha512-dQLjqmz8W2vbEcouIwSQKJma3yLujoi4zTLyB/drWKkQYVBBZ2SYZJM4QUOBxkdriugDsx/jJs89VDo8ZGA2bg==
+"@designliquido/portugol-studio@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@designliquido/portugol-studio/-/portugol-studio-0.0.3.tgz#fc2b9dbbb8f8a0976749b54aaf8d52319c6e3230"
+  integrity sha512-ifWcCNkzrsPr/EMkn0w9eqMv+arNNsAFvgqHr0OCpgLLlNdULcVU7kEcwWtiE4yT6JEe7pYF/FPHKx2w4NWqGQ==
   dependencies:
-    antlr4ts "^0.5.0-alpha.4"
-    browser-process-hrtime "^1.0.0"
-    esprima "^4.0.1"
-    lodash.clonedeep "^4.5.0"
-
-"@designliquido/portugol-studio@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@designliquido/portugol-studio/-/portugol-studio-0.0.2.tgz#123a0a962f4d28fb2acef956942f17baf24d013c"
-  integrity sha512-uETiwZO+lHmciEVH2dUWg6vUwrVs7CFgWW+qNVXEvLz403q51DNJz9OdNUqGCsKae8uVU2T0oF8nu56kDo1QkQ==
-  dependencies:
-    "@designliquido/delegua" "^0.33.6"
+    "@designliquido/delegua" "^0.33.15"
 
 "@designliquido/potigol@^0.0.3":
   version "0.0.3"
